@@ -21,7 +21,7 @@ int main(int argc, const char * argv[]) {
     
     // insert code here...
     std::cout << "Discontinuous Galerkin Finite Element Solver (DGFES)" << std::endl;
-
+    std::cout << "--------------git test------------------------------" << std::endl;
 
     // read the Gmsh input mesh  
     input *inptr = new input ;  
