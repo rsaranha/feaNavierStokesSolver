@@ -31,7 +31,7 @@ namespace solver{
     
     baseRectShapeFunction::baseRectShapeFunction(){
 
-    
+        // std::cout << "Doing nothing much here " << std::endl ;
 
     }
     
